@@ -484,10 +484,12 @@ body {
     cursor: pointer;
     height: 30px;
     width: 30px;
-    border: none;
+    border: 1px;
     background-color: #ffffff;
     position: relative;
     top: 12px;
     left: 91%;
+    stroke: solid rgba(0, 0, 0, 0.1);
+
 }
  
